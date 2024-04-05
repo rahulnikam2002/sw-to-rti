@@ -1,0 +1,16 @@
+{
+    "expo": {
+        "name": "app",
+        "slug": "smart-todo",
+        "version": "1.0.0",
+        "assetBundlePatterns": ["**/*"],
+        "android": {
+            "package": "com.smarttodo.app"
+        },
+        "extra": {
+            "eas": {
+                "projectId": "4ca539d6-983f-418e-a099-db3fe381c77b"
+            }
+        }
+    }
+}
